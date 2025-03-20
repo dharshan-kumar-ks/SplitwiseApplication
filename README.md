@@ -1,4 +1,4 @@
-# Replica of SplitwiseApplication Application
+# Replica of Splitwise Application
 
 ## 🎭 About the Project
 A simplified clone of the Splitwise application built using **Spring Boot**. This project aims to replicate the core functionality of Splitwise, allowing users to track, split, and manage expenses among friends or groups.
